@@ -1,0 +1,18 @@
+[
+  {
+    "id": "RK-001",
+    "category": "Serving Personnel",
+    "threat_type": "Phishing",
+    "risk_level": "Critical",
+    "description": "Fake SBI verification link received through SMS.",
+    "channel": "SMS"
+  },
+  {
+    "id": "RK-002",
+    "category": "Veteran",
+    "threat_type": "APK Malware",
+    "risk_level": "High",
+    "description": "Suspicious APK file received via Telegram.",
+    "channel": "Telegram"
+  }
+]
