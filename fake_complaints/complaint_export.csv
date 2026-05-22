@@ -1,0 +1,16 @@
+complaint_id,threat_type,risk_level,risk_score,description,evidence_type,complaint_status,user_role,cert_escalation_status,timestamp
+RKS-2024-0001,Phishing,High,88,"Received a fake SMS claiming to be from SBI defence salary account asking to click a link to verify KYC details immediately.",Screenshot,Open,Defence_Personnel,Escalated,2024-03-15T10:30:00Z
+RKS-2024-0002,APK_Malware,High,92,"Downloaded a fake SPARSH pension app from a Telegram group link. App requested SMS and contact permissions on install.",APK_Hash,Under_Review,Veteran,Escalated,2024-03-16T08:45:00Z
+RKS-2024-0003,Impersonation,High,79,"Caller impersonated a Colonel from Army Welfare Office and demanded OTP to process pension arrears payment.",Call_Recording,Under_Review,Veteran,Escalated,2024-03-17T14:20:00Z
+RKS-2024-0004,Banking_Fraud,High,85,"Fraudulent transaction of Rs 45,000 from defence salary account after clicking a link in a welfare scheme update email.",Screenshot,Open,Defence_Personnel,Escalated,2024-03-18T09:15:00Z
+RKS-2024-0005,OTP_Scam,Medium,65,"Received WhatsApp message from unknown number claiming ECHS card renewal requires OTP verification on a fake portal.",SMS_Log,Resolved,Family_Member,Pending,2024-03-19T11:00:00Z
+RKS-2024-0006,Phishing,Medium,58,"Fake email impersonating SPARSH portal asked to update bank account details via a spoofed login page.",URL,Resolved,Veteran,Resolved,2024-03-20T13:30:00Z
+RKS-2024-0007,APK_Malware,High,76,"Suspicious APK named CSD_Canteen_App_v2.apk distributed via WhatsApp group was found harvesting credentials.",APK_Hash,Under_Review,Defence_Personnel,Escalated,2024-03-21T07:50:00Z
+RKS-2024-0008,Banking_Fraud,Medium,62,"Received SMS with a link to a fake Sainik welfare fund disbursement portal requesting net banking credentials.",SMS_Log,Closed,Family_Member,Resolved,2024-03-22T16:10:00Z
+RKS-2024-0009,OTP_Scam,Low,32,"Unknown caller asked for OTP claiming to be from Army canteen helpdesk for a loyalty points redemption offer.",Call_Recording,Closed,Family_Member,Resolved,2024-03-23T10:05:00Z
+RKS-2024-0010,Impersonation,Medium,55,"Telegram message from a fake defence welfare officer account offering a special pension bonus requiring personal details.",Screenshot,Open,Veteran,Pending,2024-03-24T12:40:00Z
+RKS-2024-0011,Phishing,Low,28,"Suspicious email with Army logo asked to verify email address via a link that redirected to an unknown domain.",URL,Closed,Defence_Personnel,Resolved,2024-03-25T09:20:00Z
+RKS-2024-0012,Banking_Fraud,High,81,"Fraudster posed as PCDA (O) representative and convinced victim to share net banking OTP for salary revision processing.",Call_Recording,Open,Defence_Personnel,Escalated,2024-03-26T15:55:00Z
+RKS-2024-0013,OTP_Scam,Medium,47,"Received fake ECHS hospital appointment confirmation SMS with a link asking for OTP to confirm the booking.",SMS_Log,Under_Review,Family_Member,Pending,2024-03-27T08:30:00Z
+RKS-2024-0014,APK_Malware,Low,35,"Received a link to download ECHS_Card_Renewal.apk from a third-party website shared in a defence veterans group.",URL,Resolved,Veteran,Resolved,2024-03-28T11:15:00Z
+RKS-2024-0015,Impersonation,Medium,70,"WhatsApp message from a number claiming to be Sainik Board secretary asked for Aadhaar and bank details for welfare scheme enrollment.",Screenshot,Under_Review,Defence_Personnel,Pending,2024-03-29T14:00:00Z

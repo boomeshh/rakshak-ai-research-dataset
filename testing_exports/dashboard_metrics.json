@@ -1,0 +1,18 @@
+{
+  "generated_at": "2024-03-20T12:00:00Z",
+  "total_threats_detected": 47,
+  "breakdown_by_threat_category": {
+    "Phishing": 12,
+    "APK_Malware": 9,
+    "Impersonation": 8,
+    "Banking_Fraud": 11,
+    "OTP_Scam": 7
+  },
+  "average_risk_score": 72.4,
+  "escalation_rate_percent": 34.0,
+  "detection_accuracy_percent": 91.5,
+  "total_complaints": 15,
+  "escalated_complaints": 5,
+  "resolved_complaints": 4,
+  "pending_complaints": 6
+}

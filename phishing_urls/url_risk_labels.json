@@ -1,0 +1,142 @@
+[
+  {
+    "url": "https://sbi-defence-portaI.in/login",
+    "risk_score": 92,
+    "threat_category": "Banking_Phishing",
+    "detection_label": "Malicious",
+    "source": "CERT_Feed"
+  },
+  {
+    "url": "https://sbionline-defence-salary.net/verify",
+    "risk_score": 88,
+    "threat_category": "Banking_Phishing",
+    "detection_label": "Malicious",
+    "source": "Threat_Intel"
+  },
+  {
+    "url": "https://sbi.defence-salary-portal.in/account",
+    "risk_score": 85,
+    "threat_category": "Banking_Phishing",
+    "detection_label": "Malicious",
+    "source": "Honeypot"
+  },
+  {
+    "url": "https://secure-sbi-defencepay.co.in/auth",
+    "risk_score": 91,
+    "threat_category": "Banking_Phishing",
+    "detection_label": "Malicious",
+    "source": "Reported_by_User"
+  },
+  {
+    "url": "https://login.sbi-armypay.fake-domain.com/signin",
+    "risk_score": 78,
+    "threat_category": "Banking_Phishing",
+    "detection_label": "Malicious",
+    "source": "Honeypot"
+  },
+  {
+    "url": "https://army-welfare-portaI.org/register",
+    "risk_score": 76,
+    "threat_category": "Welfare_Portal_Spoofing",
+    "detection_label": "Malicious",
+    "source": "Reported_by_User"
+  },
+  {
+    "url": "https://login.army-welfare.fake-domain.com/dashboard",
+    "risk_score": 65,
+    "threat_category": "Welfare_Portal_Spoofing",
+    "detection_label": "Suspicious",
+    "source": "Honeypot"
+  },
+  {
+    "url": "https://armywelfare-india.net/scheme/apply",
+    "risk_score": 82,
+    "threat_category": "Welfare_Portal_Spoofing",
+    "detection_label": "Malicious",
+    "source": "CERT_Feed"
+  },
+  {
+    "url": "https://sparsh-pension-update.net/verify",
+    "risk_score": 89,
+    "threat_category": "Welfare_Portal_Spoofing",
+    "detection_label": "Malicious",
+    "source": "Reported_by_User"
+  },
+  {
+    "url": "https://welfare.sparsh-defence.fake-portal.in/login",
+    "risk_score": 60,
+    "threat_category": "Welfare_Portal_Spoofing",
+    "detection_label": "Suspicious",
+    "source": "Threat_Intel"
+  },
+  {
+    "url": "https://kyc-update-defence.in/verify-now",
+    "risk_score": 95,
+    "threat_category": "KYC_Fraud",
+    "detection_label": "Malicious",
+    "source": "CERT_Feed"
+  },
+  {
+    "url": "https://echs-kyc-renewal.net/submit",
+    "risk_score": 87,
+    "threat_category": "KYC_Fraud",
+    "detection_label": "Malicious",
+    "source": "Threat_Intel"
+  },
+  {
+    "url": "https://defence-kyc-portal.co.in/update",
+    "risk_score": 83,
+    "threat_category": "KYC_Fraud",
+    "detection_label": "Malicious",
+    "source": "Reported_by_User"
+  },
+  {
+    "url": "https://login.kyc-armyportal.fake-domain.com/confirm",
+    "risk_score": 68,
+    "threat_category": "KYC_Fraud",
+    "detection_label": "Suspicious",
+    "source": "Honeypot"
+  },
+  {
+    "url": "https://sparsh-apk-download.net/SPARSH_Official.apk",
+    "risk_score": 97,
+    "threat_category": "APK_Distribution",
+    "detection_label": "Malicious",
+    "source": "CERT_Feed"
+  },
+  {
+    "url": "https://army-app-update.in/download/ArmyWelfare_v2.apk",
+    "risk_score": 90,
+    "threat_category": "APK_Distribution",
+    "detection_label": "Malicious",
+    "source": "Threat_Intel"
+  },
+  {
+    "url": "https://echs-mobile-app.fake-domain.com/install",
+    "risk_score": 72,
+    "threat_category": "APK_Distribution",
+    "detection_label": "Malicious",
+    "source": "Honeypot"
+  },
+  {
+    "url": "https://csd-canteen-app.net/download/CSD_Official_Update.apk",
+    "risk_score": 85,
+    "threat_category": "APK_Distribution",
+    "detection_label": "Malicious",
+    "source": "Reported_by_User"
+  },
+  {
+    "url": "https://sainik-welfare-app.co.in/apk/SainikWelfare_Verified.apk",
+    "risk_score": 63,
+    "threat_category": "APK_Distribution",
+    "detection_label": "Suspicious",
+    "source": "Threat_Intel"
+  },
+  {
+    "url": "https://defence-portal-update.in/app/SPARSH_Update_v3.apk",
+    "risk_score": 94,
+    "threat_category": "APK_Distribution",
+    "detection_label": "Malicious",
+    "source": "CERT_Feed"
+  }
+]

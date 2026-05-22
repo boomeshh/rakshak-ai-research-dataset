@@ -1,0 +1,134 @@
+[
+  {
+    "apk_id": "APK-2024-001",
+    "apk_name": "SPARSH_Official_Update.apk",
+    "package_name": "com.sparsh.defence.update",
+    "source": "Telegram_Group",
+    "malware_behavior": "Data_Exfiltration",
+    "installation_risk": "High",
+    "threat_category": "APK_Malware",
+    "risk_score": 92,
+    "reported_date": "2024-03-10T08:00:00Z"
+  },
+  {
+    "apk_id": "APK-2024-002",
+    "apk_name": "ECHS_Card_Renewal_v2.apk",
+    "package_name": "com.echs.card.renewal.official",
+    "source": "WhatsApp_Link",
+    "malware_behavior": "SMS_Interception",
+    "installation_risk": "High",
+    "threat_category": "APK_Malware",
+    "risk_score": 88,
+    "reported_date": "2024-03-12T11:30:00Z"
+  },
+  {
+    "apk_id": "APK-2024-003",
+    "apk_name": "ArmyWelfare_Portal_Verified.apk",
+    "package_name": "com.army.welfare.portal.verified",
+    "source": "Third_Party_Store",
+    "malware_behavior": "Remote_Access_Trojan",
+    "installation_risk": "High",
+    "threat_category": "APK_Malware",
+    "risk_score": 95,
+    "reported_date": "2024-03-15T09:15:00Z"
+  },
+  {
+    "apk_id": "APK-2024-004",
+    "apk_name": "CSD_Canteen_App_Update.apk",
+    "package_name": "com.csd.canteen.defence.update",
+    "source": "Telegram_Group",
+    "malware_behavior": "Credential_Harvesting",
+    "installation_risk": "High",
+    "threat_category": "APK_Malware",
+    "risk_score": 90,
+    "reported_date": "2024-03-18T14:00:00Z"
+  },
+  {
+    "apk_id": "APK-2024-005",
+    "apk_name": "SPARSH_Pension_Tracker.apk",
+    "package_name": "com.sparsh.pension.tracker.fake",
+    "source": "WhatsApp_Link",
+    "malware_behavior": "Data_Exfiltration",
+    "installation_risk": "High",
+    "threat_category": "APK_Malware",
+    "risk_score": 87,
+    "reported_date": "2024-04-02T07:45:00Z"
+  },
+  {
+    "apk_id": "APK-2024-006",
+    "apk_name": "ECHS_Hospital_Locator_Official.apk",
+    "package_name": "com.echs.hospital.locator.official",
+    "source": "Third_Party_Store",
+    "malware_behavior": "SMS_Interception",
+    "installation_risk": "High",
+    "threat_category": "APK_Malware",
+    "risk_score": 83,
+    "reported_date": "2024-04-05T10:20:00Z"
+  },
+  {
+    "apk_id": "APK-2024-007",
+    "apk_name": "ArmyWelfare_Scheme_Register.apk",
+    "package_name": "com.army.welfare.scheme.register",
+    "source": "Telegram_Group",
+    "malware_behavior": "Remote_Access_Trojan",
+    "installation_risk": "High",
+    "threat_category": "APK_Malware",
+    "risk_score": 96,
+    "reported_date": "2024-04-10T13:00:00Z"
+  },
+  {
+    "apk_id": "APK-2024-008",
+    "apk_name": "CSD_Price_List_2024.apk",
+    "package_name": "com.csd.pricelist.defence.2024",
+    "source": "WhatsApp_Link",
+    "malware_behavior": "Credential_Harvesting",
+    "installation_risk": "Medium",
+    "threat_category": "APK_Malware",
+    "risk_score": 72,
+    "reported_date": "2024-04-14T16:30:00Z"
+  },
+  {
+    "apk_id": "APK-2024-009",
+    "apk_name": "SPARSH_KYC_Verify.apk",
+    "package_name": "com.sparsh.kyc.verify.update",
+    "source": "Third_Party_Store",
+    "malware_behavior": "Credential_Harvesting",
+    "installation_risk": "High",
+    "threat_category": "APK_Malware",
+    "risk_score": 91,
+    "reported_date": "2024-05-01T08:00:00Z"
+  },
+  {
+    "apk_id": "APK-2024-010",
+    "apk_name": "ECHS_OPD_Booking_v3.apk",
+    "package_name": "com.echs.opd.booking.v3",
+    "source": "Telegram_Group",
+    "malware_behavior": "Data_Exfiltration",
+    "installation_risk": "Medium",
+    "threat_category": "APK_Malware",
+    "risk_score": 68,
+    "reported_date": "2024-05-08T11:00:00Z"
+  },
+  {
+    "apk_id": "APK-2024-011",
+    "apk_name": "ArmyWelfare_Fund_Apply.apk",
+    "package_name": "com.army.welfare.fund.apply",
+    "source": "WhatsApp_Link",
+    "malware_behavior": "SMS_Interception",
+    "installation_risk": "Medium",
+    "threat_category": "APK_Malware",
+    "risk_score": 65,
+    "reported_date": "2024-05-15T09:30:00Z"
+  },
+  {
+    "apk_id": "APK-2024-012",
+    "apk_name": "CSD_Canteen_Order_Tracker.apk",
+    "package_name": "com.csd.canteen.order.tracker",
+    "source": "Third_Party_Store",
+    "malware_behavior": "Remote_Access_Trojan",
+    "installation_risk": "High",
+    "threat_category": "APK_Malware",
+    "risk_score": 89,
+    "reported_date": "2024-05-20T14:45:00Z"
+  }
+]
